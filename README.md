@@ -1,16 +1,14 @@
-## Hi there 👋
+## About me 👋
 
-<!--
-**zahara0526/zahara0526** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**hello-world/zahara0526** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Northeastern University,China;
+- 🔭 I’m currently studying on Northeastern University,China;
 - 🌱 I’m currently learning C,C++,Python;
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with the use of Github
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: I like kpop💃;
